@@ -3,6 +3,7 @@ html {
 }
 body {
 	background: #000000 url(khoriwalkerjohn.png) no-repeat center center;
+	background-size: 100%;
 }
 h1 {
 	display: none;
