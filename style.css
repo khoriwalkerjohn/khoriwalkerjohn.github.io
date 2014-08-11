@@ -1,0 +1,9 @@
+html {
+	height: 100%;
+}
+body {
+	background: #000000 url(khoriwalkerjohn.png) no-repeat center center;
+}
+h1 {
+	display: none;
+}	
